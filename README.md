@@ -10,13 +10,13 @@ The purpose of going through this was to sharpen my JavaScript skills. All the c
 
 ## Projects
 
-| # | Project | What it covers | Live demo |
-|---|---------|----------------|-----------|
-| 1 | [Markdown to HTML Converter](./01-markdown-to-html-converter/) | Regex, input events, DOM | [View](https://xabisomemani.github.io/fcc-javascript-algorithms-v9/01-markdown-to-html-converter/) |
-| 2 | [Drum Machine](./02-drum-machine/) | Audio API, keyboard events, DOM | [View](https://xabisomemani.github.io/fcc-javascript-algorithms-v9/02-drum-machine/) |
-| 3 | [Voting System](./03-voting-system/) | Map, Set, functions | Code only |
-| 4 | [Bank Account Manager](./04-bank-account-manager/) | Classes, OOP, arrays | Code only |
-| 5 | [Weather App](./05-weather-app/) | Fetch, async/await, APIs | [View](https://xabisomemani.github.io/fcc-javascript-algorithms-v9/05-weather-app/) |
+| #   | Project                                                        | What it covers                  | Live demo                                                                                                                       |
+| --- | -------------------------------------------------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Markdown to HTML Converter](./01-markdown-to-html-converter/) | Regex, input events, DOM        | [View](https://xabisomemani.github.io/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures-v9/01-markdown-to-html-converter/) |
+| 2   | [Drum Machine](./02-drum-machine/)                             | Audio API, keyboard events, DOM | [View](https://xabisomemani.github.io/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures-v9/02-drum-machine/)               |
+| 3   | [Voting System](./03-voting-system/)                           | Map, Set, functions             | Code only                                                                                                                       |
+| 4   | [Bank Account Manager](./04-bank-account-manager/)             | Classes, OOP, arrays            | Code only                                                                                                                       |
+| 5   | [Weather App](./05-weather-app/)                               | Fetch, async/await, APIs        | [View](https://xabisomemani.github.io/FreeCodeCamp-JavaScript-Algorithms-and-Data-Structures-v9/05-weather-app/)                |
 
 Markdown Converter, Drum Machine, and Weather App have HTML so those are on GitHub Pages. Voting System and Bank Account are pure JS — no UI to deploy — so the READMEs in those folders explain how they work.
 
